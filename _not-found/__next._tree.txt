@@ -1,2 +1,2 @@
-:HL["/italki-alexwest-q9k71f51/_next/static/chunks/3dn9sx4wcf-zs.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"rT2eBGEbYtrsAs3KbyMR9"}
+:HL["/italki-alexwest-q9k71f51/_next/static/chunks/13u24xf3iw181.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"8ER9XEcgUPkjLexWU1zK9"}
